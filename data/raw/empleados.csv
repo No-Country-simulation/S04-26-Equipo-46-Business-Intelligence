@@ -1,0 +1,201 @@
+id_empleado,region,area,puesto,fecha_ingreso,fecha_salida,costo_hora,horas_disponibles_mes,pais
+E001,Europe,Finance,Director,2025-05-26,,24.45,160,Germany
+E002,APAC,IT,Director,2025-06-02,,12.66,160,Japan
+E003,LATAM,Finance,Manager,2023-12-16,,22.63,160,Argentina
+E004,Europe,Operations,Analyst,2023-02-16,,18.98,160,Spain
+E005,Europe,IT,Director,2025-05-16,,22.81,160,Spain
+E006,APAC,Operations,Director,2025-04-02,,15.95,160,Australia
+E007,LATAM,IT,Senior Analyst,2025-07-24,,41.39,160,México
+E008,LATAM,IT,Director,2025-03-30,2025-09-04,31.59,160,México
+E009,Europe,HR,Director,2024-10-17,,34.41,160,Spain
+E010,North America,Operations,Senior Analyst,2023-09-26,,38.04,160,Canada
+E011,Europe,Finance,Manager,2024-01-05,,28.45,160,Germany
+E012,Europe,Finance,Director,2024-09-27,,14.87,160,Germany
+E013,Europe,Operations,Senior Analyst,2023-04-16,,29.72,160,UK
+E014,Europe,Finance,Analyst,2024-10-31,,31.37,160,Spain
+E015,APAC,Finance,Manager,2024-10-20,2025-02-28,36.6,160,India
+E016,LATAM,Operations,Analyst,2024-10-18,,26.24,160,Chile
+E017,APAC,IT,Analyst,2023-04-30,,16.21,160,India
+E018,APAC,Operations,Senior Analyst,2025-04-10,2025-12-18,21.36,160,India
+E019,APAC,IT,Director,2025-02-25,,23.98,160,Japan
+E020,Europe,Finance,Senior Analyst,2024-08-26,,33.32,160,UK
+E021,North America,Finance,Senior Analyst,2023-02-27,2023-08-11,30.84,160,USA
+E022,LATAM,Finance,Senior Analyst,2025-08-08,,23.75,160,Chile
+E023,North America,HR,Senior Analyst,2023-12-12,,44.56,160,Canada
+E024,APAC,IT,Manager,2025-01-10,,31.99,160,Australia
+E025,APAC,HR,Director,2024-04-18,,19.83,160,Japan
+E026,North America,HR,Analyst,2023-04-27,,15.36,160,Canada
+E027,North America,Operations,Analyst,2025-04-09,,17.04,160,Canada
+E028,North America,HR,Director,2025-03-01,,20.12,160,USA
+E029,APAC,Operations,Analyst,2023-05-07,,17.3,160,India
+E030,APAC,Operations,Director,2024-01-28,2024-10-08,18.16,160,India
+E031,LATAM,HR,Analyst,2025-06-26,,21.41,160,México
+E032,LATAM,IT,Senior Analyst,2024-10-02,,17.72,160,Argentina
+E033,APAC,IT,Analyst,2023-02-27,,41.59,160,Australia
+E034,North America,IT,Director,2024-09-25,,14.65,160,Canada
+E035,North America,IT,Director,2024-05-27,,29.31,160,USA
+E036,LATAM,IT,Director,2025-01-20,,25.54,160,Argentina
+E037,APAC,HR,Director,2025-03-12,,44.42,160,Australia
+E038,LATAM,HR,Director,2023-04-06,,15.7,160,Chile
+E039,LATAM,Finance,Manager,2024-09-29,2025-12-26,25.13,160,Argentina
+E040,Europe,IT,Manager,2023-04-28,,43.99,160,Germany
+E041,Europe,HR,Analyst,2024-07-13,,40.56,160,Germany
+E042,Europe,Finance,Director,2024-08-23,,38.96,160,Spain
+E043,North America,IT,Analyst,2024-05-02,2025-01-19,20.51,160,Canada
+E044,APAC,Operations,Director,2023-08-25,2024-06-29,17.64,160,Japan
+E045,APAC,Finance,Director,2025-06-03,,34.07,160,Japan
+E046,APAC,HR,Manager,2025-06-15,,42.67,160,Australia
+E047,APAC,Operations,Manager,2023-09-29,,30.37,160,Australia
+E048,Europe,Operations,Senior Analyst,2023-07-08,,30.86,160,Spain
+E049,North America,Operations,Manager,2024-12-04,,21.24,160,Canada
+E050,North America,Finance,Senior Analyst,2024-03-22,,37.39,160,USA
+E051,Europe,HR,Senior Analyst,2024-08-03,2025-05-10,18.17,160,UK
+E052,North America,Operations,Senior Analyst,2025-02-28,,22.68,160,USA
+E053,Europe,IT,Senior Analyst,2025-05-10,2025-12-02,26.04,160,UK
+E054,APAC,Operations,Senior Analyst,2023-09-04,,28.75,160,Japan
+E055,Europe,Operations,Analyst,2025-08-20,,20.0,160,Germany
+E056,APAC,Finance,Manager,2023-03-17,,15.79,160,Australia
+E057,APAC,Finance,Senior Analyst,2023-06-03,,32.15,160,Japan
+E058,LATAM,HR,Director,2024-10-17,2025-08-15,21.52,160,Argentina
+E059,Europe,IT,Manager,2024-03-10,,31.18,160,Spain
+E060,LATAM,Finance,Manager,2023-03-27,2024-02-06,17.09,160,Chile
+E061,Europe,Operations,Senior Analyst,2024-11-27,,27.88,160,UK
+E062,Europe,HR,Analyst,2023-10-12,2024-02-25,29.58,160,Germany
+E063,LATAM,Operations,Senior Analyst,2025-08-31,,13.71,160,Chile
+E064,LATAM,Operations,Analyst,2023-08-08,,23.11,160,México
+E065,Europe,Finance,Director,2023-03-10,,16.44,160,Spain
+E066,North America,HR,Manager,2023-02-16,,14.09,160,USA
+E067,APAC,IT,Director,2023-04-04,,44.67,160,Australia
+E068,LATAM,IT,Analyst,2025-01-19,,22.64,160,Chile
+E069,APAC,Finance,Analyst,2025-08-15,2025-11-24,38.73,160,Australia
+E070,North America,Finance,Director,2024-03-28,,20.4,160,USA
+E071,North America,HR,Analyst,2023-07-23,2024-10-12,34.49,160,USA
+E072,North America,IT,Director,2025-06-30,,37.09,160,USA
+E073,LATAM,IT,Manager,2023-08-06,,31.66,160,Argentina
+E074,North America,IT,Director,2024-04-18,,27.56,160,USA
+E075,LATAM,Operations,Manager,2024-03-07,2024-09-02,25.59,160,Chile
+E076,North America,IT,Director,2023-12-07,,23.51,160,USA
+E077,APAC,Operations,Analyst,2024-07-04,2024-10-29,42.67,160,Australia
+E078,APAC,HR,Director,2024-09-03,2025-01-11,39.41,160,Australia
+E079,Europe,Operations,Analyst,2023-10-16,,43.85,160,Spain
+E080,APAC,HR,Director,2023-09-11,,16.1,160,Australia
+E081,Europe,IT,Director,2025-01-03,2025-10-20,36.12,160,Germany
+E082,APAC,IT,Senior Analyst,2023-12-23,,42.97,160,Australia
+E083,LATAM,HR,Analyst,2023-01-23,,17.98,160,Argentina
+E084,APAC,Finance,Senior Analyst,2025-01-31,,14.19,160,Japan
+E085,Europe,HR,Analyst,2024-06-05,2024-10-18,36.46,160,UK
+E086,Europe,Finance,Senior Analyst,2025-01-27,,30.96,160,Spain
+E087,North America,Operations,Manager,2025-04-16,,39.78,160,Canada
+E088,LATAM,Operations,Director,2023-04-10,,16.61,160,México
+E089,APAC,Operations,Analyst,2025-03-12,,38.24,160,Japan
+E090,North America,IT,Analyst,2023-06-29,,18.65,160,USA
+E091,APAC,Operations,Director,2023-08-11,,17.4,160,Australia
+E092,APAC,Finance,Analyst,2025-06-24,,17.42,160,Japan
+E093,North America,Operations,Analyst,2025-01-31,2025-08-27,38.88,160,USA
+E094,North America,HR,Senior Analyst,2024-10-20,,33.95,160,Canada
+E095,North America,HR,Analyst,2024-03-17,,29.26,160,USA
+E096,North America,IT,Manager,2024-08-30,,23.84,160,USA
+E097,North America,HR,Manager,2025-02-07,,40.95,160,USA
+E098,APAC,Finance,Director,2023-11-21,,24.95,160,India
+E099,North America,Operations,Analyst,2024-05-30,,38.95,160,USA
+E100,LATAM,IT,Director,2023-01-16,,26.49,160,México
+E101,Europe,Operations,Manager,2025-03-02,,24.44,160,UK
+E102,North America,Operations,Analyst,2023-12-02,,27.27,160,Canada
+E103,North America,Finance,Analyst,2025-01-28,2025-08-10,21.95,160,USA
+E104,APAC,HR,Director,2023-09-15,,36.67,160,Japan
+E105,North America,HR,Manager,2024-05-11,,28.59,160,Canada
+E106,North America,Operations,Analyst,2025-06-14,2025-09-17,19.66,160,USA
+E107,North America,IT,Director,2023-06-09,,41.69,160,USA
+E108,APAC,HR,Manager,2024-04-19,,24.67,160,India
+E109,North America,IT,Director,2025-05-01,,29.94,160,Canada
+E110,Europe,HR,Senior Analyst,2024-10-25,,41.91,160,UK
+E111,APAC,IT,Analyst,2025-06-26,,32.6,160,Japan
+E112,Europe,Finance,Senior Analyst,2024-11-20,,15.86,160,UK
+E113,APAC,IT,Manager,2024-11-05,,43.01,160,Japan
+E114,North America,Finance,Senior Analyst,2024-01-15,,32.71,160,USA
+E115,Europe,Finance,Senior Analyst,2024-06-28,2025-09-26,23.05,160,UK
+E116,APAC,IT,Manager,2025-07-17,,16.6,160,Australia
+E117,LATAM,Finance,Director,2025-08-14,,38.2,160,México
+E118,North America,Operations,Senior Analyst,2024-11-21,,32.46,160,USA
+E119,APAC,Finance,Director,2024-03-02,,29.6,160,Japan
+E120,LATAM,HR,Senior Analyst,2024-09-04,2025-03-07,41.5,160,Argentina
+E121,APAC,IT,Director,2023-09-25,2024-05-25,38.02,160,India
+E122,LATAM,Operations,Manager,2025-04-14,,17.01,160,Argentina
+E123,North America,IT,Senior Analyst,2024-07-30,,22.29,160,USA
+E124,Europe,HR,Manager,2024-02-21,,20.2,160,UK
+E125,LATAM,HR,Senior Analyst,2023-06-17,,36.55,160,Argentina
+E126,APAC,HR,Manager,2025-04-21,,13.11,160,Japan
+E127,North America,Finance,Manager,2023-02-12,,30.81,160,Canada
+E128,LATAM,Finance,Senior Analyst,2024-07-09,2025-06-14,37.16,160,México
+E129,APAC,IT,Senior Analyst,2023-10-12,,40.93,160,Japan
+E130,APAC,IT,Senior Analyst,2024-02-01,2025-02-27,23.29,160,Japan
+E131,APAC,Operations,Analyst,2023-01-12,,39.1,160,Australia
+E132,LATAM,Operations,Director,2024-08-29,,15.65,160,Argentina
+E133,LATAM,IT,Analyst,2023-10-29,,39.93,160,Chile
+E134,LATAM,Finance,Analyst,2025-06-16,,16.21,160,México
+E135,Europe,HR,Manager,2023-09-10,,25.11,160,Germany
+E136,LATAM,IT,Senior Analyst,2024-05-13,,38.31,160,Chile
+E137,LATAM,Operations,Director,2025-01-23,,16.95,160,México
+E138,LATAM,Finance,Manager,2023-02-04,,19.57,160,Argentina
+E139,Europe,IT,Analyst,2024-12-27,,35.83,160,Spain
+E140,LATAM,IT,Senior Analyst,2025-04-28,,35.76,160,Argentina
+E141,APAC,Finance,Manager,2023-03-31,2024-05-01,33.16,160,India
+E142,LATAM,IT,Senior Analyst,2025-02-14,,34.9,160,México
+E143,APAC,Finance,Manager,2024-08-27,,29.91,160,Australia
+E144,APAC,HR,Senior Analyst,2025-07-10,,20.31,160,India
+E145,APAC,Finance,Analyst,2025-08-27,,23.41,160,Japan
+E146,Europe,Finance,Director,2024-08-24,,17.99,160,Germany
+E147,Europe,Finance,Analyst,2024-02-22,,41.98,160,UK
+E148,Europe,IT,Director,2023-04-25,,31.25,160,Germany
+E149,LATAM,IT,Senior Analyst,2024-09-08,,25.23,160,Argentina
+E150,APAC,Finance,Manager,2025-06-21,,27.25,160,Japan
+E151,Europe,IT,Analyst,2023-07-15,,43.26,160,Spain
+E152,Europe,Operations,Director,2025-04-05,2025-09-10,17.06,160,Spain
+E153,LATAM,Operations,Analyst,2024-05-15,,31.35,160,Argentina
+E154,Europe,IT,Director,2024-09-17,,28.69,160,UK
+E155,LATAM,IT,Analyst,2024-05-07,,32.18,160,México
+E156,North America,Finance,Director,2023-03-16,,12.6,160,USA
+E157,Europe,HR,Director,2024-02-17,2025-05-22,40.78,160,Germany
+E158,North America,IT,Senior Analyst,2024-01-11,,42.76,160,Canada
+E159,LATAM,Operations,Director,2024-02-24,,30.65,160,México
+E160,APAC,Finance,Senior Analyst,2024-12-29,,34.99,160,Japan
+E161,Europe,IT,Director,2023-10-04,,42.44,160,Spain
+E162,LATAM,Operations,Manager,2025-01-30,,35.34,160,Argentina
+E163,APAC,Operations,Manager,2024-11-06,,17.03,160,Japan
+E164,APAC,HR,Manager,2024-01-29,,31.02,160,India
+E165,North America,Finance,Director,2025-05-18,,32.02,160,USA
+E166,LATAM,Finance,Senior Analyst,2024-04-01,,26.0,160,México
+E167,APAC,HR,Senior Analyst,2025-07-08,,36.3,160,Japan
+E168,Europe,HR,Director,2023-07-11,2024-02-07,42.83,160,Germany
+E169,Europe,Finance,Manager,2025-01-08,,42.54,160,UK
+E170,North America,Finance,Manager,2024-11-19,2025-05-19,26.88,160,USA
+E171,APAC,IT,Senior Analyst,2023-04-09,,15.74,160,Japan
+E172,LATAM,IT,Manager,2024-07-01,2025-08-20,44.5,160,Argentina
+E173,Europe,HR,Analyst,2023-04-06,2024-02-22,39.68,160,Spain
+E174,APAC,IT,Senior Analyst,2024-10-25,,16.11,160,Australia
+E175,APAC,Operations,Manager,2024-10-24,,42.39,160,India
+E176,North America,IT,Senior Analyst,2023-07-09,2024-05-11,40.71,160,USA
+E177,Europe,IT,Analyst,2025-01-05,,29.12,160,Germany
+E178,Europe,Operations,Senior Analyst,2023-02-06,2024-01-10,31.51,160,UK
+E179,LATAM,HR,Senior Analyst,2025-02-18,,25.17,160,Argentina
+E180,Europe,Operations,Senior Analyst,2024-01-04,,13.81,160,Spain
+E181,LATAM,IT,Senior Analyst,2024-11-25,,23.06,160,México
+E182,Europe,HR,Analyst,2024-06-08,2024-10-23,38.49,160,Spain
+E183,North America,IT,Director,2023-10-06,2024-01-29,12.15,160,USA
+E184,Europe,Operations,Senior Analyst,2023-08-05,,23.01,160,Germany
+E185,LATAM,Operations,Senior Analyst,2025-05-16,,25.14,160,México
+E186,LATAM,IT,Manager,2025-05-22,,29.73,160,México
+E187,North America,Finance,Senior Analyst,2025-03-08,,42.36,160,Canada
+E188,Europe,Finance,Manager,2023-09-30,,23.43,160,Spain
+E189,Europe,Operations,Director,2025-05-30,2025-09-24,23.45,160,Germany
+E190,North America,Operations,Analyst,2023-03-03,,36.34,160,Canada
+E191,Europe,Finance,Analyst,2024-08-18,,26.92,160,Germany
+E192,Europe,Finance,Director,2025-05-29,,19.41,160,Germany
+E193,LATAM,IT,Analyst,2024-12-29,,26.93,160,Argentina
+E194,Europe,IT,Director,2023-12-08,2024-03-09,16.65,160,UK
+E195,Europe,Finance,Director,2024-02-01,,17.82,160,Spain
+E196,North America,IT,Director,2024-11-29,,28.45,160,USA
+E197,North America,IT,Analyst,2023-01-19,,25.82,160,USA
+E198,APAC,HR,Manager,2023-06-26,2024-07-13,42.19,160,Australia
+E199,LATAM,IT,Director,2024-09-03,,23.96,160,Argentina
+E200,Europe,Operations,Senior Analyst,2024-01-31,2024-08-26,31.16,160,Spain
