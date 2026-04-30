@@ -82,11 +82,7 @@ Data Sources → ETL Pipeline → Data Model → KPI Engine → Dashboard → PD
 
 ## 📸 Demo / Preview
 
-<!-- Add your screenshot here -->
-<!-- Example:
-![Dashboard Preview](./assets/dashboard.png)
--->
-
+![Repository Overview](./docs/repo-preview.png)
 ---
 
 ## 🛠️ Tech Stack
