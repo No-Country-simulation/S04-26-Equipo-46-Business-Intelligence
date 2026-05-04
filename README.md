@@ -33,6 +33,18 @@ We are building an **automated end-to-end system** that:
 
 ---
 
+## 📄 Conceptual Proposal
+
+This document includes:
+- Business problem definition
+- Market context
+- Data architecture design
+- KPI framework
+
+🔗 [View full proposal in Notion](https://difficult-sassafras-27d.notion.site/GlobalForce-Propuesta-Conceptual-356c75ca451180ceaf11db5d157f9a42)
+
+---
+
 ## 🏗️ Architecture Overview
 
 Data Sources → ETL Pipeline → Data Model → KPI Engine → Dashboard → PDF Report
